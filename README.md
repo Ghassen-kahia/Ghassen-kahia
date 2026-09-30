@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ghassenkahya@gmail@gmail.com"><img src="https://img.shields.io/badge/Email-kahiaghassen4%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:ghassenkahya@gmail@gmail.com"><img src="https://img.shields.io/badge/Email-ghassenkahya%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ghassenkahia/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Open%20to-End--of--Studies%20Internship%20(PFE)-2ea44f?style=flat" alt="Open to PFE internship">
 </p>
