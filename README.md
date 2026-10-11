@@ -79,4 +79,10 @@ A secure private cloud on **OpenStack** with a fully open-source DevSecOps layer
 
 <br>
 
-<img src="assets/footer.svg" width="100%" alt="Always happy to talk cloud, security and automation.">
+<img src="assets/footer.svg" width="100%" alt="What's next: Let's build something secure. Open to Cloud / DevOps PFE internships, in France or internationally.">
+
+<p align="center">
+  <a href="https://ghassen-kahia.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ghassenkahia/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:ghassenkahya@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email: ghassenkahya@gmail.com"></a>
+</p>
