@@ -1,5 +1,5 @@
 <a href="https://ghassen-kahia.github.io/">
-  <img src="assets/banner.svg" width="100%" alt="Ghassen Kahia · Cloud & DevOps Engineering Student · Dijon, France · Open to a Cloud / DevOps PFE internship">
+  <img src="assets/banner.svg" width="100%" alt="Ghassen Kahia · Cloud & DevOps Engineering Student · from Tunis, Tunisia, based in Dijon, France · Open to a Cloud / DevOps PFE internship">
 </a>
 
 <p align="center">
@@ -10,17 +10,39 @@
 
 <br>
 
-<img src="assets/h-about.svg" width="100%" alt="01 · About me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg">
+  <img src="assets/h-about-light.svg" width="100%" alt="01 · About · Who I am">
+</picture>
 
-Final-year **Cloud Computing** engineering student at **ESPRIT** (Tunisia), currently on exchange at **ESEO Dijon** (France).
+I'm from **Tunis, Tunisia**, a final-year **Cloud Computing** engineering student at **ESPRIT**, currently on exchange at **ESEO Dijon** (France).
 I build secure, automated infrastructure, with a focus on **DevSecOps, private cloud, infrastructure as code** and **automated incident response**.
-I'm looking for a **Cloud / DevOps end-of-studies internship (PFE)** in France or internationally.
 
-<img src="assets/journey.svg" width="100%" alt="Journey: Bachelor at ISSAT Mateur (Embedded Systems & IoT, top of class) → Engineering at ESPRIT (Cloud Computing) → Exchange at ESEO Dijon (Smart City, 2026–2027) → Next: PFE internship">
+<img src="assets/stats.svg" width="100%" alt="Final year Cloud Computing engineering · Top of class in my Bachelor (Embedded & IoT) · From Tunis, now in Dijon · Open to a Cloud / DevOps PFE internship">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg">
+  <img src="assets/journey-light.svg" width="100%" alt="Journey: Bachelor at ISSAT Mateur (Embedded Systems & IoT, top of class) → Engineering at ESPRIT (Cloud Computing) → Exchange at ESEO Dijon (Smart City, 2026–2027) → Next: PFE internship">
+</picture>
 
 <br>
 
-<img src="assets/h-featured.svg" width="100%" alt="02 · Featured · OpenSecureCloud">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-skills-dark.svg">
+  <img src="assets/h-skills-light.svg" width="100%" alt="02 · Skills · What I can do">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img src="assets/skills-light.svg" width="100%" alt="Skills: Cloud architecture (OpenStack), Infrastructure as Code (Terraform, Ansible), DevSecOps pipelines (GitLab CI, SonarQube, Trivy, Checkov, OWASP ZAP), Identity & access (Keycloak, OpenLDAP), Network & web security (WireGuard, ModSecurity, FortiWeb), Containers & automation (Docker, Kubernetes, Falco, Python, Bash)">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-featured-dark.svg">
+  <img src="assets/h-featured-light.svg" width="100%" alt="03 · Featured · OpenSecureCloud">
+</picture>
 
 A secure private cloud on **OpenStack** with a fully open-source DevSecOps layer, built by a team of 4 engineers.
 **My part:** the Keycloak / OpenLDAP authentication front proxy that sits in front of the WAF.
@@ -29,7 +51,10 @@ A secure private cloud on **OpenStack** with a fully open-source DevSecOps layer
 
 <br>
 
-<img src="assets/h-projects.svg" width="100%" alt="03 · More projects">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg">
+  <img src="assets/h-projects-light.svg" width="100%" alt="04 · Projects · Other things I've built">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Ghassen-kahia/RIF-PROJECT"><img src="assets/p-rif.svg" width="49%" alt="Odoo Stack on Docker: Odoo 17 + PostgreSQL 15 with Docker Compose, Nginx reverse proxy, automated backups"></a>
@@ -42,9 +67,15 @@ A secure private cloud on **OpenStack** with a fully open-source DevSecOps layer
 
 <br>
 
-<img src="assets/h-stack.svg" width="100%" alt="04 · Tech stack">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg">
+  <img src="assets/h-stack-light.svg" width="100%" alt="05 · Stack · Tools I work with">
+</picture>
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack. Cloud & infrastructure: OpenStack, Kubernetes, Docker, Terraform, Ansible, Nginx, HAProxy, PostgreSQL, Linux. DevSecOps & CI/CD: GitLab CI, SonarQube, Trivy, Checkov, OWASP ZAP, Falco, Keycloak, WireGuard, FortiWeb. Development: Python, Symfony, Bash, Git. Embedded & IoT: C, Arduino, Raspberry Pi.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Tech stack. Cloud & infra: OpenStack, Kubernetes, Docker, Terraform, Ansible, Nginx, HAProxy, PostgreSQL, Linux. DevSecOps: GitLab CI, SonarQube, Trivy, Checkov, OWASP ZAP, Falco, Keycloak, WireGuard, FortiWeb. Development: Python, Symfony, Bash, Git. Embedded & IoT: C, Arduino, Raspberry Pi.">
+</picture>
 
 <br>
 
