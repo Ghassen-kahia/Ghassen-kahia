@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://ghassen-kahia.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
   <a href="https://www.linkedin.com/in/ghassenkahia/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:ghassenkahya@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email: ghassenkahya@gmail.com"></a>
+  <a href="mailto:ghassenkahia.pro@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email: ghassenkahia.pro@gmail.com"></a>
 </p>
 
 <br>
@@ -84,5 +84,5 @@ A secure private cloud on **OpenStack** with a fully open-source DevSecOps layer
 <p align="center">
   <a href="https://ghassen-kahia.github.io/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
   <a href="https://www.linkedin.com/in/ghassenkahia/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:ghassenkahya@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email: ghassenkahya@gmail.com"></a>
+  <a href="mailto:ghassenkahia.pro@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email: ghassenkahia.pro@gmail.com"></a>
 </p>
